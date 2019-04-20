@@ -10,7 +10,6 @@ while i < len(a):
     i += 1
 
 
-
 #2. Поменять местами минимальный и максимальный элементы
 from random import random
 n = 15
